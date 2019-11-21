@@ -1,0 +1,31 @@
+{
+
+  "nom": "tuto",
+Un séjour sans faille
+  "version": "1.0.0",
+
+  "description": "",
+
+  "main": "index.js",
+
+  "dependencies": {
+
+    "discord.js": "^11.5.1"
+
+  },
+
+  "devDependencies": {},
+
+  "scripts": {
+
+    "test": "echo \"Error: no test specified\" && exit 1"
+
+  },
+
+  "author": "Flxvio",
+
+  "license": "ISC"
+
+}
+
+Un séjour sans faille
